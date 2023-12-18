@@ -7,5 +7,6 @@ public class Main {
         System.out.println("这是第一个git管理的项目");
         System.out.println("hello git 2");
         System.out.println("hello git 3");
+        System.out.println("hello git 4");
     }
 }
